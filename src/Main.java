@@ -44,16 +44,9 @@ public  class Main {
         int[] numbers = {14, 7, 19, 3, 6, 10};
 
 
-//        for (int i = 0; i< numbers.length; i++){
-//            System.out.println(numbers[i]);
-//
-//        }
-
-        int  i = 0;
-
-        while (i < numbers.length){
+        for (int i = 0; i< numbers.length; i++){
             System.out.println(numbers[i]);
-            i++;
+
         }
 
 
